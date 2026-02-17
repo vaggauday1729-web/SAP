@@ -100,9 +100,9 @@ SAP/
 - [📁 Week 1 Exercises](Week1/) - All Week 1 exercise files
   - [Day 1](Week1/Day1/) - [Exercise 1](Week1/Day1/01_excersize.md) | [Exercise 2](Week1/Day1/02_excersize.md) | [Exercise 3](Week1/Day1/03_excersize.md) | [Exercise 4](Week1/Day1/04_excersize.md)
   - [Day 2](Week1/Day2/) - [Exercise 1](Week1/Day2/01_excersize.md) | [Exercise 2](Week1/Day2/02_excersize.md) | [Exercise 3](Week1/Day2/03_excersize.md)
-  - [Day 3](Week1/Day3/) - [Exercise 1](Week1/Day3/01_excersize.md) | [Exercise 2](Week1/Day3/02_excersize.md) | [Exercise 3](Week1/Day3/03_excersize.md) | [Exercise 4](Week1/Day3/04_excersize.md)
-  - [Day 4](Week1/Day4/) - [Exercise 1](Week1/Day4/01_excersize.md) | [Exercise 2](Week1/Day4/02_excersize.md) | [Exercise 3](Week1/Day4/03_excersize.md) | [Exercise 4](Week1/Day4/04_excersize.md)
-  - [Day 5](Week1/Day5/) - [Exercise 1](Week1/Day5/01_excersize.md) | [Exercise 2](Week1/Day5/02_excersize.md) | [Exercise 3](Week1/Day5/03_excersize.md)
+  - [Day 3](Week1/Day3/) - [Exercise 1](Week1/Day3/01_excersize.md) | [Exercise 2](Week1/Day3/02_excersize.md) | [Exercise 3](Week1/Day3/03_excersize.md) | [Afternoon Session 1](Week1/Day3/04_afternoon_session.md) | [Afternoon Session 2](Week1/Day3/05_afternoon_session_sap_basics.md)
+  - [Day 4](Week1/Day4/) - [Exercise 1](Week1/Day4/01_excersize.md) | [Exercise 2](Week1/Day4/02_excersize.md) | [Exercise 3](Week1/Day4/03_excersize.md) | [Afternoon Session 1](Week1/Day4/04_afternoon_session.md) | [Afternoon Session 2](Week1/Day4/05_afternoon_session_business_processes.md)
+  - [Day 5](Week1/Day5/) - [Exercise 1](Week1/Day5/01_excersize.md) | [Exercise 2](Week1/Day5/02_excersize.md) | [Afternoon Session 1](Week1/Day5/03_afternoon_session.md) | [Afternoon Session 2](Week1/Day5/04_afternoon_session_digital_transformation.md)
 - [📚 Draft Materials](drafts/) - Source files and course notes
 
 ---

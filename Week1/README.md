@@ -58,12 +58,14 @@ This week covers **Understanding Technology** with a focus on:
 - AI Functionalities (Predictive Analytics, Speech Recognition, Image Recognition, Recommendation Systems, Autonomous Systems)
 - How AI Works (5 Steps)
 - How AI Combines with Other Technologies (IoT, Cloud, Big Data, Blockchain)
+- SAP Basics & Enterprise Software (Afternoon Session 2)
 
 **Exercises:**
 - [📄 01_excersize.md - Video Learning: SAP BTP & Cloud Computing](Day3/01_excersize.md)
 - [📄 02_excersize.md - Video Learning: System Software vs. Application Software](Day3/02_excersize.md)
 - [📄 03_excersize.md - Introduction to Artificial Intelligence](Day3/03_excersize.md)
-- [📄 04_excersize.md - Afternoon Session: How AI Works & AI-Cloud Integration](Day3/04_excersize.md)
+- [📄 04_afternoon_session.md - Afternoon Session: How AI Works & AI-Cloud Integration](Day3/04_afternoon_session.md)
+- [📄 05_afternoon_session_sap_basics.md - Afternoon Session 2: SAP Basics & Enterprise Software](Day3/05_afternoon_session_sap_basics.md)
 
 ---
 
@@ -77,12 +79,14 @@ This week covers **Understanding Technology** with a focus on:
 - SAP Cloud AI Functionalities
 - Robotic Process Automation (RPA)
 - Digital Innovation and Business Transformation
+- Business Processes & Enterprise Systems (Afternoon Session 2)
 
 **Exercises:**
 - [📄 01_excersize.md - AI History & Advanced Concepts](Day4/01_excersize.md)
 - [📄 02_excersize.md - AI Integration & SAP AI](Day4/02_excersize.md)
 - [📄 03_excersize.md - Video Learning: Robotic Process Automation (RPA)](Day4/03_excersize.md)
-- [📄 04_excersize.md - Afternoon Session: SAP AI & Digital Innovation](Day4/04_excersize.md)
+- [📄 04_afternoon_session.md - Afternoon Session: SAP AI & Digital Innovation](Day4/04_afternoon_session.md)
+- [📄 05_afternoon_session_business_processes.md - Afternoon Session 2: Business Processes & Enterprise Systems](Day4/05_afternoon_session_business_processes.md)
 
 ---
 
@@ -100,11 +104,13 @@ This week covers **Understanding Technology** with a focus on:
 - Automated Allocation of Payments in SAP
 - SAP Integration with External Systems
 - Week 1 Conclusions and Recap
+- Digital Transformation & Business Requirements (Afternoon Session 2)
 
 **Exercises:**
 - [📄 01_excersize.md - Robotics & Automation](Day5/01_excersize.md)
 - [📄 02_excersize.md - SAP Automation & Week 1 Wrap-Up](Day5/02_excersize.md)
-- [📄 03_excersize.md - Afternoon Session: SAP Integration & Automation](Day5/03_excersize.md)
+- [📄 03_afternoon_session.md - Afternoon Session: SAP Automation in Practice](Day5/03_afternoon_session.md)
+- [📄 04_afternoon_session_digital_transformation.md - Afternoon Session 2: Digital Transformation & Business Requirements](Day5/04_afternoon_session_digital_transformation.md)
 
 ---
 
