@@ -17,7 +17,7 @@ Welcome to Day 5! Today we're learning about **Robotics and Automation** - how t
 - [ ] Other: ___________________________________________
 
 **Your definition of robotics:**
-> ___________________________________________
+> Performing tasks with higher efficiency and less errors
 
 ---
 
@@ -43,8 +43,9 @@ Robotics = Making and using robots that can do tasks by themselves!
 - Delivery robots
 
 **Can you think of another example?**
-> ___________________________________________
-
+> Partner robot
+> DIY Robots
+> Logistics handling robots
 ---
 
 ## 🎨 Activity 3: Difference Between Robotics, Automation, and AI
@@ -54,29 +55,29 @@ Robotics = Making and using robots that can do tasks by themselves!
 **ROBOTICS:**
 - **Focus:** Physical robots performing tasks
 - **Example:** 
-  > ___________________________________________
+  > Robovaccum
 
 **AUTOMATION:**
 - **Focus:** Can involve both software (RPA) and hardware automation, not necessarily robots
 - **Example:** 
-  > ___________________________________________
+  > Automation of verfication tasks
 
 **AI:**
 - **Focus:** Intelligence and decision-making capabilities applied to various fields, including robotics
 - **Example:** 
-  > ___________________________________________
+  > Robovaccums, Delivery Drones, Self driving cars
 
 **Fill in the table:**
 
-| Feature | Robotics | Automation | AI |
-|---------|----------|------------|-----|
-| **Physical robot?** | | | |
-| **Can be software?** | | | |
-| **Makes decisions?** | | | |
-| **Example** | | | |
+| Feature              | Robotics        | Automation       | AI                                                            |
+|---------             |----------       |----------------- |---------------------------------------------------------------|
+| **Physical robot?**  | VaccuRobots     |Plug-in / Plug-out|scanning, obstacle avoiding, Suction capacity,Dry&Wet vaccuming|
+| **Can be software?** | Movement        |RPA               |Chatgpt, copilot, perplexity                                   |
+| **Makes decisions?** | HUmanoid robots |Approvalss        |Chatgpt, copilot, perplexity                                   |
+| **Example**          | Sofia           |Workflows         |Chatgpt, copilot, perplexity                                   |
 
 **How are they related?**
-> ___________________________________________
+> They are all interconnected
 
 ---
 
@@ -100,7 +101,7 @@ Robotics = Making and using robots that can do tasks by themselves!
 - **Automated:** Email app checks for you and notifies you
 
 **Can you think of another example?**
-> ___________________________________________
+> Alarms & reminders
 
 ---
 
@@ -109,24 +110,24 @@ Robotics = Making and using robots that can do tasks by themselves!
 ### Find Examples Around You
 
 **1. At Home:**
-- Example: ___________________________________________
+- Example: Washing maschine
 - What it does automatically: 
-  > ___________________________________________
+  > press button
 
 **2. On Your Phone:**
-- Example: ___________________________________________
+- Example: Siri
 - What it does automatically: 
-  > ___________________________________________
+  > control phone
 
 **3. At Work/School:**
-- Example: ___________________________________________
+- Example: RPA
 - What it does automatically: 
-  > ___________________________________________
+  > Document proofing
 
 **4. Online:**
-- Example: ___________________________________________
+- Example: Gmail
 - What it does automatically: 
-  > ___________________________________________
+  > Translation
 
 ---
 
@@ -137,18 +138,18 @@ Robotics = Making and using robots that can do tasks by themselves!
 **Task:** Paying a bill
 
 **Manual Way:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
-4. ___________________________________________
+1. Recieving the bill
+2. Check the bill
+3. Pay amount
+4. Collect invoice
 
 **Automated Way:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
+1. Recieve the verified bill
+2. one tap payment
+3. autorecieve the invoice
 
 **Which is easier? Why?**
-> ___________________________________________
+> Automated. It smoothens & is faster
 
 ---
 
@@ -167,11 +168,11 @@ Robotics = Making and using robots that can do tasks by themselves!
 | **Frees You Up** | E. You can focus on other things | _____ |
 
 **Write your answers:**
-- Saves Time: _____
-- Reduces Errors: _____
-- Works 24/7: _____
-- Consistent: _____
-- Frees You Up: _____
+- Saves Time: __A___
+- Reduces Errors: __B___
+- Works 24/7: __C___
+- Consistent: __D___
+- Frees You Up: __E___
 
 ---
 
@@ -179,15 +180,16 @@ Robotics = Making and using robots that can do tasks by themselves!
 
 **What surprised you about robotics and automation?**
 
-> ___________________________________________
+> Faster & Efficient
 
 **What automation would help you most?**
 
-> ___________________________________________
+> Filtering in our day-to-day life
 
 **What questions do you have?**
 
-> ___________________________________________
+> What other processes can be automated?
+> Reliabity of the process of automation, Quality proofing/monitoring
 
 ---
 
