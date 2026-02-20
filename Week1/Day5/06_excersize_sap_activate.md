@@ -14,12 +14,11 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 - Be ready to share your findings with the class
 
 **Your Group Members:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
-4. ___________________________________________
+1. Hardik
+2. Uday
 
-**Your Role:** ___________________________________________
+
+**Your Role:** ---
 
 ---
 
@@ -47,11 +46,11 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 
 | Phase | Activity Number | Why? |
 |-------|----------------|------|
-| Prepare | _____ | ___________________________________________ |
-| Explore | _____ | ___________________________________________ |
-| Realize | _____ | ___________________________________________ |
-| Deploy | _____ | ___________________________________________ |
-| Run | _____ | ___________________________________________ |
+| Prepare | __3.___ | __Initialisation phase___ |
+| Explore | __1.___ | __Environment setup_____ |
+| Realize | __5.___ | __Gap-fit Analysis phase___ |
+| Deploy | __4.___ | __Testing & training phase__ |
+| Run | __2.___ | ___Go-Live phase_____ |
 
 **Discussion:** Why did you match them this way?
 > ___________________________________________
@@ -82,10 +81,10 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 **What needs to happen in the Prepare phase?**
 
 **Activities:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
-4. ___________________________________________
+1. Project initiation
+2. define scope
+3. set up team
+4. plan implementation
 
 **Key Questions to Answer:**
 - What is the project scope?
@@ -94,9 +93,10 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 - What is the budget?
 
 **Your Group's Plan:**
-> ___________________________________________
-> ___________________________________________
-> ___________________________________________
+> Implement SAP modules
+> Project Lead, Businesses process experts, configurations experts, technical experts & service center
+> 6 months
+> Pay as you go model
 
 ---
 
@@ -105,10 +105,8 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 **What needs to happen in the Explore phase?**
 
 **Activities:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
-4. ___________________________________________
+1.Analyze requirements, explore solutions, identify gaps, design solution
+
 
 **Key Questions to Answer:**
 - What are the business requirements?
@@ -117,9 +115,10 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 - How should the solution be designed?
 
 **Your Group's Plan:**
-> ___________________________________________
-> ___________________________________________
-> ___________________________________________
+> Implement Finance, sales & Manufacturing
+> SAP Finance, sales & Manufacturing module implementations
+> HR Module
+> Migration from Spreadsheets to SAP modules
 
 ---
 
@@ -128,10 +127,11 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 **What needs to happen in the Realize phase?**
 
 **Activities:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
-4. ___________________________________________
+
+1. Configure SAP system, , 
+2. develop customizations
+3. integrate systems
+
 
 **Key Questions to Answer:**
 - How will we configure SAP?
@@ -140,9 +140,10 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 - How will we build the solution?
 
 **Your Group's Plan:**
-> ___________________________________________
-> ___________________________________________
-> ___________________________________________
+> Configuration based on business requirement
+> Functional customizations and technical customizations 
+> using SAP Leonardo
+> using agile methodology
 
 ---
 
@@ -151,10 +152,7 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 **What needs to happen in the Deploy phase?**
 
 **Activities:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
-4. ___________________________________________
+Final testing, user training, data migration, go-live preparation
 
 **Key Questions to Answer:**
 - How will we test the system?
@@ -163,9 +161,10 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 - How will we prepare for go-live?
 
 **Your Group's Plan:**
-> ___________________________________________
-> ___________________________________________
-> ___________________________________________
+> implementing Test strategy
+> conducting user trainings
+> using SAP leonardo
+> setup go-live environment
 
 ---
 
@@ -174,10 +173,7 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 **What needs to happen in the Run phase?**
 
 **Activities:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
-4. ___________________________________________
+Go-live, support, monitoring, continuous improvement
 
 **Key Questions to Answer:**
 - How will we go-live?
@@ -186,11 +182,10 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 - How will we improve continuously?
 
 **Your Group's Plan:**
-> ___________________________________________
-> ___________________________________________
-> ___________________________________________
-
----
+> Prod environment -> golive environment
+> priority based ticketing system
+> Exit criteria
+> feedback loop
 
 ## 🎯 Exercise 3: Best Practices Discussion
 
@@ -200,46 +195,37 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 
 **Phase 1: Prepare**
 **Best Practices:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- As above mentioned
 
 **Why are these important?**
-> ___________________________________________
+> smooth seamless implmentation
 
 ---
 
 **Phase 2: Explore**
 **Best Practices:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- As above mentioned
 
 **Why are these important?**
-> ___________________________________________
+> smooth seamless implmentation
 
 ---
 
 **Phase 3: Realize**
 **Best Practices:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- As above mentioned
 
 **Why are these important?**
-> ___________________________________________
+> smooth seamless implmentation
 
 ---
 
 **Phase 4: Deploy**
 **Best Practices:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- As above mentioned
 
 **Why are these important?**
-> ___________________________________________
-
+> smooth seamless implmentation
 ---
 
 **Phase 5: Run**
